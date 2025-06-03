@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Cors
+pyodbc
+python-dotenv
+bcrypt
+pandas
+openpyxl
+mysql-connector-python
