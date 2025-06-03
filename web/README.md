@@ -2,6 +2,13 @@
 
 A modern web application for managing rental data for retail locations. This application provides functionality for storing, viewing, editing, and reporting on rental agreements.
 
+Demo
+
+
+
+https://github.com/user-attachments/assets/65562bb5-78a7-4d3c-8409-1b7a5ee44a29
+
+
 ## Features
 
 - **Secure Login**: Authentication system to protect sensitive data
