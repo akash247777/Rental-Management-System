@@ -1,4 +1,4 @@
-# Apollo Rental Management System
+# Rental Management System
 
 A modern web application for managing rental data for retail locations. This application provides functionality for storing, viewing, editing, and reporting on rental agreements.
 
